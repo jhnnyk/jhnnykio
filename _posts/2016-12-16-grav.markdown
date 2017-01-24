@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Grav"
+date:   2016-12-16 13:09:24 -0700
+categories: grav blog CMS
+---
+I've tried a lot of CMS's over the years. Recently [Ghost](https://ghost.org/), [Medium](https://medium.com/) & [Craft](https://craftcms.com/). In the past, I specialized in [ExpressionEngine](https://expressionengine.com/) and used [WordPress](https://wordpress.org/) quite a bit. Apparently now it's time to try [Grav](https://getgrav.org/).
+
+Setup has been super easy with only two minor hangups:
+1. I needed to update PHP version running on my MediaTemple Grid Server.
+2. The ```.htaccess``` file that is provided with Grav needs to be in the webroot. Mine was labeled ```htaccess.txt``` and in the ```webserver-configs``` folder.
+
+So I'm off and running. We'll see how this goes and how long before I switch to something else!
