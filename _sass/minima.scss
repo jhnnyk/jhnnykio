@@ -41,3 +41,9 @@ $on-laptop:        800px !default;
   "minima/layout",
   "minima/syntax-highlighting"
 ;
+
+// styles added by John
+.site-footer img.profile-image {
+  width: 70%;
+  border-radius: 50%;
+}
