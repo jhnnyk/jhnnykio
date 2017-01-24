@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+## Hi! My name is John Knotts.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+I am currently enrolled in [Flatiron School's Community Powered Bootcamp](https://flatironschool.com/programs/online-community-bootcamp/). I have dabbled in web development for several years, but have always been self-taught with *-- what at least felt like --* big gaps in my knowledge. I **love** my kids and being a stay-at-home dad but my kids are now old enough that I'm ready to really dig in, fill in those gaps and work as a full-time web developer.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+When I'm not actively embracing the idea of creating something with nothing but my laptop and a text editor, I can usually be found doing something fun with my wife and kids or [running in the mountains](http://www.jhnnyk.com/) of Colorado.
